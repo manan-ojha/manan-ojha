@@ -25,4 +25,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mananojha&" alt="mananojha" /></p>
 
-![](https://leetcard.manan_ojha.cool/leetcode?site=cn)
